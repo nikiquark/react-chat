@@ -3,7 +3,7 @@
 В первую консоль введите
 1. git clone https://github.com/nikiquark/react-chat.git скачает исходный код без библиотек
 3. cd ./react-chat/client
-4. nmp i
+4. npm i
 5. npm start
 
 Вторую можно открыть пока скачиваются библиотеки (пункт 4)
